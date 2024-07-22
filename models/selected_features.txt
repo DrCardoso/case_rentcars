@@ -1,0 +1,17 @@
+user_reorder_ratio
+product_reorder_ratio
+user_reorder_freq
+avg_pos_incart
+user_order_count
+product_popularity
+user_avg_products_per_order
+user_unique_products
+user_dow_order_freq
+user_hour_order_freq
+user_avg_days_between_orders
+user_days_since_last_order
+product_avg_days_since_prior
+order_hour_of_day_sin
+order_dow_sin
+order_hour_of_day_cos
+order_dow_cos
